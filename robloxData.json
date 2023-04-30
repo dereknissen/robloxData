@@ -1,0 +1,74 @@
+{
+  "31903384": {
+    "cred": 0,
+    "fname": "Jerome",
+    "gang": "Unaffiliated",
+    "lname": "Green",
+    "money": 500,
+    "rank": -1
+  },
+  "58729407": {
+    "cred": 0,
+    "fname": "Charles",
+    "gang": "Unaffiliated",
+    "lname": "Morales",
+    "money": 500,
+    "rank": 0
+  },
+  "115000138": {
+    "cred": 0,
+    "fname": "Charles",
+    "gang": "",
+    "lname": "Morales",
+    "money": 25,
+    "rank": 0
+  },
+  "140713928": {
+    "cred": 0,
+    "fname": "Mitchell",
+    "gang": "Unaffiliated",
+    "lname": "Morales",
+    "money": 500,
+    "rank": -1
+  },
+  "462915457": {
+    "cred": 0,
+    "fname": "Dion",
+    "gang": "Unaffiliated",
+    "lname": "Morales",
+    "money": 500,
+    "rank": -1
+  },
+  "3645540283": {
+    "cred": 0,
+    "fname": "Charles",
+    "gang": "Unaffiliated",
+    "lname": "Morales",
+    "money": 500,
+    "rank": 0
+  },
+  "-1": {
+    "cred": 0,
+    "fname": "Charles",
+    "gang": "",
+    "lname": "Morales",
+    "money": 0,
+    "rank": 0
+  },
+  "4559922473": {
+    "cred": 0,
+    "fname": "Chris",
+    "gang": "Unaffiliated",
+    "lname": "",
+    "money": 500,
+    "rank": -1
+  },
+  "4560311307": {
+    "cred": 0,
+    "fname": "Chase",
+    "gang": "Unaffiliated",
+    "lname": "Morales",
+    "money": 500,
+    "rank": -1
+  }
+}
